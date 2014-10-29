@@ -1,5 +1,5 @@
 <?php
-phpinfo();
+ppinfo();
 
 // Push the app with a specific PHP buildpack (if not installed on your target cloud)
 // cf push meetup-cf-php-1 -m 128M -b https://github.com/dmikusa-pivotal/cf-php-build-pack.git
